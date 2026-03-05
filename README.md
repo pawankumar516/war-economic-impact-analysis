@@ -19,14 +19,23 @@ This project aims to analyze conflict-related economic data to uncover insights 
 The analysis focuses on the following questions:
 
 How does the status of a conflict affect a country's GDP?
+
 What is the relationship between GDP loss and poverty?
+
 How does conflict impact youth unemployment compared to overall unemployment?
+
 Which region suffers the most average economic damage from conflicts?
+
 Which economic sectors are the most affected by conflicts?
+
 Does the length of a conflict determine how bad the economic shock will be?
+
 Which regions show the largest unemployment spikes?
+
 Which regions recover faster after conflicts end?
+
 Which sector recovers fastest post-conflict?
+
 Which wars pushed the largest share of population into extreme poverty?
 
 Project Objectives
